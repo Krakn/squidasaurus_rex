@@ -44,10 +44,10 @@ Python | 3.4 | 3.5 | 3.6
 -------|-----|-----|----
 Django | 1.8, 1.9, 1.10, 1.11 | 1.9, 1.10, 1.11 | 1.11
 
-For additional used packages see `[setup.py](https://github.com/ponyriders/django-amazon-price-monitor/blob/master/setup.py#L23)`.
+For additional used packages (see [setup.py](https://github.com/ponyriders/django-amazon-price-monitor/blob/master/setup.py#L23)).
 
 ### Included angular libraries
-* angular-django-rest-resource (`[commit](https://github.com/blacklocus/angular-django-rest-resource/tree/81d752b363668d674201c09d7a2ce6f418a44f13)`)
+* angular-django-rest-resource (see [commit](https://github.com/blacklocus/angular-django-rest-resource/tree/81d752b363668d674201c09d7a2ce6f418a44f13))
 
 ### Basic setup
 * Add all Python packages by using the `requirements.txt` document:
